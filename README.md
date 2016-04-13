@@ -1,0 +1,1 @@
+Implemented a client­-Server user­level application using socket programming in C++. Server accepts strings from clients (even multiple strings from each client) and replies with the sum of the ASCII values of the characters in the string. 
